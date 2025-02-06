@@ -1,4 +1,4 @@
-# 🌿 CleanPost - Postagens Livres de Toxicidade
+# Toxicity-tweet-verify-app - Postagens Livres de Toxicidade
 
 Bem-vindo ao **CleanPost**! 🚀
 
@@ -36,12 +36,3 @@ Ficamos felizes com contribuições! 🎉 Para contribuir:
    git commit -m 'Adiciona nova funcionalidade'
    ```
 4. Envie um **pull request**. 🚀
-
----
-
-## 📜 Licença
-
-📝 Este projeto está licenciado sob a licença **MIT**.
-
-🚀 **Mantenha a internet um lugar mais seguro com o CleanPost!** 🌎
-
