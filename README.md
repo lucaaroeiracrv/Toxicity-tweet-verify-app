@@ -1,4 +1,4 @@
-# Toxicity-tweet-verify-app - Postagens Livres de Toxicidade
+# Tweet Toxicity Checker App - Postagens Livres de Toxicidade
 
 Bem-vindo ao **CleanPost**! 🚀
 
